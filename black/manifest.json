@@ -1,0 +1,27 @@
+{
+  "name": "E-Ink theme black",
+  "version": "1.0.0",
+  "description": "This is a Chrome theme designed specifically for E-Ink displays.",
+  "manifest_version": 3,
+  "theme": {
+    "colors": {
+      "frame": [20, 21, 35],
+      "frame_inactive": [20, 21, 35],
+      "background_tab": [20, 21, 35],
+      "background_tab_inactive": [20, 21, 35],
+      "tab_background_text": [255, 255, 255],
+      "tab_background_text_inactive": [255, 255, 255],
+      "tab_text": [20, 21, 35],
+      "toolbar": [255, 255, 255],
+      "toolbar_button_icon": [20, 21, 35],
+      "toolbar_text": [20, 21, 35],
+      "bookmark_text": [20, 21, 35],
+      "omnibox_background": [255, 255, 255],
+      "omnibox_text": [20, 21, 35],
+      "ntp_background": [255, 255, 255],
+      "ntp_header": [20, 21, 35],
+      "ntp_link": [20, 21, 35],
+      "ntp_text": [20, 21, 35]
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "name": "E-Ink theme",
-  "version": "0.0.1",
+  "name": "E-Ink theme white",
+  "version": "1.0.0",
   "description": "This is a Chrome theme designed specifically for E-Ink displays.",
   "manifest_version": 3,
   "theme": {
